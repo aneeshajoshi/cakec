@@ -33,7 +33,7 @@ input[type=text], select, textarea {
  
   
   header{
-    background-image: url("https://github.com/aneeshajoshi/cakecafe/blob/master/image/header.jfif");
+    background-image: url("https://github.com/aneeshajoshi/cakec/blob/master/image/header.jfif");
     height:100vh;
 }
 .nav{
@@ -47,7 +47,7 @@ input[type=text], select, textarea {
     margin-top: 80px;
 }
 body{
-    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://github.com/aneeshajoshi/cakecafe/blob/master/image/CAKE-h.jpeg") ; 
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://github.com/aneeshajoshi/cakec/blob/master/image/CAKE-h.jpeg") ; 
     background-repeat: no-repeat;
     font-size: 20px;
     overflow-x: hidden;
