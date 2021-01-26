@@ -1,0 +1,60 @@
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    resize: vertical 
+  
+}
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+ 
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  .container{
+    width: 1180px;
+    position:absolute;
+    border: 0px solid red;
+    top:55%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+ 
+  
+  header{
+    background-image: url("https://github.com/aneeshajoshi/cakecafe/blob/master/image/header.jfif");
+    height:100vh;
+}
+.nav{
+    max-width: 1180px;
+    margin: 0 auto;
+}
+.logo{
+    height: 120 px;
+    width: auto;
+    float: left;
+    margin-top: 80px;
+}
+body{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://github.com/aneeshajoshi/cakecafe/blob/master/image/CAKE-h.jpeg") ; 
+    background-repeat: no-repeat;
+    font-size: 20px;
+    overflow-x: hidden;
+    color:blue;
+    
+
+    
+}
+
+  

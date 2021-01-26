@@ -1,0 +1,65 @@
+
+header{
+    background-image: url("https://github.com/aneeshajoshi/cakecafe/blob/master/image/header.jfif");
+    height:100vh;
+}
+.nav{
+    max-width: 1180px;
+    margin: 0 auto;
+}
+.logo{
+    height: 120 px;
+    width: auto;
+    float: left;
+    margin-top: 80px;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    font-weight: lighter;
+    text-decoration-color:bisque;
+}
+body{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://github.com/aneeshajoshi/cakecafe/blob/master/image/CAKE-h.jpeg") ; 
+    background-repeat: no-repeat;
+    font-size: 20px;
+    overflow-x: hidden;
+    color:black;
+    
+
+    
+}
+
+.container{
+    width: 1180px;
+    position:absolute;
+    border: 0px solid red;
+    top:55%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+h6{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+/*img
+    width:100px;
+    height:100px;
+}*/
+.color{
+    animation: colorchange 1s infinite;
+
+}
+@keyframes colorchange{
+    0%{color: lightseagreen;}
+    25%{color: white;}
+    50%{color: white;}
+    100%{color: lightseagreen;}
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+}
